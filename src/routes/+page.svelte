@@ -21,7 +21,7 @@
     </style>
 
 <svelte:head>
-<title>Имя Фамилия </title>
+<title>Анастасия Ваулина </title>
 </svelte:head>
 <div class='container'>
 <div class='info'>
@@ -44,3 +44,4 @@ ducimus expedita labore nemo odio quibusdam quidem sapiente soluta. </h2>
 </div>
 </div>
 <div class='background-div'></div>
+
