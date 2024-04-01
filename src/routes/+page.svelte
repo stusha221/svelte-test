@@ -78,7 +78,7 @@ ducimus expedita labore nemo odio quibusdam quidem sapiente soluta. </h2>
 	margin-top: 0.50rem;
 	}
 	.background-div{
-	background-color: Hecebe8;
+	background-color: #ecebe8;;
 	width: 100%; height: 56vh;
 	margin: -205px auto;}
 	
