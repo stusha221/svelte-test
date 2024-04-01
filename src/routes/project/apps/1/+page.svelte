@@ -14,6 +14,13 @@ newItem = '';
 }
 }
 import Icon from '../../../../components/Icon.svelte';
+function remove(index) {
+todoList.splice(index, 1);
+todoList = todoList;
+}
+function complete(index) {
+todoList[index].completed = !todoList[index].completed;
+}
 </script>
 <h1>My to-do list</h1>
 <main>
